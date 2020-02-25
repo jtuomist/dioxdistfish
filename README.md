@@ -1,2 +1,2 @@
 # dioxdistfish
-A Bayesian hierarchical model to estimate dioxin concetration distributions in fish based on PCB measurements and other determinants
+A Bayesian hierarchical model to estimate dioxin concentration distributions in fish based on PCB measurements and other determinants
